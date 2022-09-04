@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77fed85b36a61a848b44752e9b4bf98c, type: 3}
+  m_Name: BackRightWheelSO
+  m_EditorClassIdentifier: 
+  partName: Wheel (Back-Right)
+  text1: ' Brand : XY'
+  text2: ' Tyre Type : Tube'
+  text3: ' Size : 150/90 R22'
+  text4: ' Load Capacity : 480 Kg'
+  text5: ' Dimension : 67*22*67 cm'
+  text6: ' Weight : 28 Kg'
+  text7: ' Origin : India'
+  partImage: {fileID: 21300000, guid: 2bdea63f864e7ff41ad04e6b86fb6bb6, type: 3}
